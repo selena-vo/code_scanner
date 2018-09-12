@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple200</item>
+        <item name="colorPrimaryDark">@color/purple900</item>
+        <item name="colorAccent">@color/colorAccentPurple</item>
+    </style>
+    <style name="HeaderBar">
+        <item name="android:background">@color/purple200</item>
+    </style>
+    <style name="ActionBarThemeOverlay" parent="">
+        <item name="android:textColorPrimary">#fff</item>
+        <item name="colorControlNormal">@color/purple900</item>
+        <item name="colorControlHighlight">@color/purple900</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>
