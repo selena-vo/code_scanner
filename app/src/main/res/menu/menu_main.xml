@@ -8,7 +8,7 @@
         android:id="@+id/action_scanner"
         android:orderInCategory="300"
         android:title="Scanner"
-        android:icon="@drawable/scanner2"
+        android:icon="@drawable/icon_scanner"
         app:showAsAction="always"></item>
     <item
         android:id="@+id/action_history"
